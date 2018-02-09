@@ -17,3 +17,6 @@
 - [[백준] 1152번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num1152.java)
 
 - [[백준] 10809번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num10809.java)
+
+
+- [[백준] 9095번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num9095.java)

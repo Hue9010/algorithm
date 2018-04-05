@@ -26,3 +26,9 @@ Dynamic Programming
 - [[백준] 9095번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num9095.java)
 
 - [[백준] 2579번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2579.java)
+
+codility  
+=============
+
+- [TapeEquilibrium](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)
+	// 83%로 보완 필요  

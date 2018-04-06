@@ -30,7 +30,6 @@ Dynamic Programming
 codility  
 =============
 
-- [TapeEquilibrium](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)
-	// 83%로 보완 필요  
+- [TapeEquilibrium](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
 	
-- [OddOccurrencesInArray](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)
+- [OddOccurrencesInArray](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  

@@ -12,12 +12,12 @@ public class TapeEquilibrium {
 		assertEquals(solution(arr), 1);
 	}
 
-    public int solution(int[] A) {
-        return calculator(A, getTotal(A));
-    }
-    
+	public int solution(int[] A) {
+		return calculator(A, getTotal(A));
+	}
+
 	private int calculator(int[] arr, int total) {
-		int answer = Math.abs(total);
+		int answer = Integer.MAX_VALUE;
 		int pre = 0;
 		int next = total;
 		for (int i = 1; i < arr.length; i++) {

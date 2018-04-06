@@ -32,3 +32,5 @@ codility
 
 - [TapeEquilibrium](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)
 	// 83%로 보완 필요  
+	
+- [OddOccurrencesInArray](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)

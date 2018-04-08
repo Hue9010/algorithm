@@ -32,4 +32,4 @@ codility
 
 - [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
 	
-- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
+- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/OddOccurrencesInArray.java)  

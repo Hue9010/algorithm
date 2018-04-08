@@ -10,26 +10,26 @@
 문자열  
 ======
 
-- [[백준] 2908번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2908.java)  
+- [[백준] 2908번](https://www.acmicpc.net/problem/2908), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2908.java)  
 
-- [[백준] 11654번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num11654.java)
+- [[백준] 11654번](https://www.acmicpc.net/problem/11654), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num11654.java)
 
-- [[백준] 1152번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num1152.java)
+- [[백준] 1152번](https://www.acmicpc.net/problem/1152), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num1152.java)
 
-- [[백준] 10809번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num10809.java)
+- [[백준] 10809번](https://www.acmicpc.net/problem/10809), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num10809.java)
 
 ---
 
 Dynamic Programming  
 ====================
 
-- [[백준] 9095번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num9095.java)
+- [[백준] 9095번](https://www.acmicpc.net/problem/9095), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num9095.java)
 
-- [[백준] 2579번](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2579.java)
+- [[백준] 2579번](https://www.acmicpc.net/problem/2579), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2579.java)
 
 codility  
 =============
 
-- [TapeEquilibrium](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
+- [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
 	
-- [OddOccurrencesInArray](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
+- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  

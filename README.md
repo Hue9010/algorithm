@@ -35,3 +35,5 @@ codility
 - [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/OddOccurrencesInArray.java)  
 
 - [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PermMissingElem.java)  
+
+- [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PermCheck.java)  

@@ -37,3 +37,5 @@ codility
 - [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PermMissingElem.java)  
 
 - [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PermCheck.java)  
+
+- [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/FrogRiverOne.java)  

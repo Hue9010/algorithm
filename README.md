@@ -42,3 +42,4 @@ codility
 
 - [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MissingInteger.java)  
 
+- [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/CountDiv.java)  

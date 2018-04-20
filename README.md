@@ -47,3 +47,5 @@ codility
 - [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MaxCounters.java)  
 
 - [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/CyclicRotation.java)  
+
+- [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MinAvgTwoSlice.java)  

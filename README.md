@@ -49,3 +49,5 @@ codility
 - [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/CyclicRotation.java)  
 
 - [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MinAvgTwoSlice.java)  
+
+- [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PassingCars.java)  

@@ -51,3 +51,5 @@ codility
 - [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MinAvgTwoSlice.java)  
 
 - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PassingCars.java)  
+
+- [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/Triangle.java)  

@@ -12,47 +12,47 @@
 
 ### 문자열  
 
-- [[백준] 2908번](https://www.acmicpc.net/problem/2908), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2908.java)  
+- [[백준] 2908번](https://www.acmicpc.net/problem/2908), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/baekjoon/Num10809.java)  
 
-- [[백준] 11654번](https://www.acmicpc.net/problem/11654), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num11654.java)
+- [[백준] 11654번](https://www.acmicpc.net/problem/11654), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/baekjoon/Num11654.java)
 
-- [[백준] 1152번](https://www.acmicpc.net/problem/1152), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num1152.java)
+- [[백준] 1152번](https://www.acmicpc.net/problem/1152), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/baekjoon/Num1152.java)
 
-- [[백준] 10809번](https://www.acmicpc.net/problem/10809), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num10809.java)
+- [[백준] 10809번](https://www.acmicpc.net/problem/10809), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/baekjoon/Num10809.java)
 
 ---
 
 ### Dynamic Programming  
 
-- [[백준] 9095번](https://www.acmicpc.net/problem/9095), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num9095.java)
+- [[백준] 9095번](https://www.acmicpc.net/problem/9095), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/baekjoon/Num9095.java)
 
-- [[백준] 2579번](https://www.acmicpc.net/problem/2579), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2579.java)
+- [[백준] 2579번](https://www.acmicpc.net/problem/2579), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/baekjoon/Num2579.java)
 
 ---
 
 codility  
 =============
 
-- [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/TapeEquilibrium.java)  
+- [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/TapeEquilibrium.java)  
 	
-- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/OddOccurrencesInArray.java)  
+- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/OddOccurrencesInArray.java)  
 
-- [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PermMissingElem.java)  
+- [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/PermMissingElem.java)  
 
-- [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PermCheck.java)  
+- [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/PermCheck.java)  
 
-- [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/FrogRiverOne.java)  
+- [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/FrogRiverOne.java)  
 
-- [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MissingInteger.java)  
+- [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/MissingInteger.java)  
 
-- [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/CountDiv.java)  
+- [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/CountDiv.java)  
 
-- [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MaxCounters.java)  
+- [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/MaxCounters.java)  
 
-- [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/CyclicRotation.java)  
+- [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/CyclicRotation.java)  
 
-- [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/MinAvgTwoSlice.java)  
+- [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/MinAvgTwoSlice.java)  
 
-- [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/PassingCars.java)  
+- [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/PassingCars.java)  
 
-- [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/codility/Triangle.java)  
+- [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/Triangle.java)  

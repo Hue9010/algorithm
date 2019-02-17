@@ -7,8 +7,10 @@
 
 ---
 
-문자열  
-======
+백준  
+====
+
+### 문자열  
 
 - [[백준] 2908번](https://www.acmicpc.net/problem/2908), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2908.java)  
 
@@ -20,12 +22,13 @@
 
 ---
 
-Dynamic Programming  
-====================
+### Dynamic Programming  
 
 - [[백준] 9095번](https://www.acmicpc.net/problem/9095), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num9095.java)
 
 - [[백준] 2579번](https://www.acmicpc.net/problem/2579), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/baekjoon/Num2579.java)
+
+---
 
 codility  
 =============

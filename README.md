@@ -57,6 +57,9 @@ codility
 
 - [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/Triangle.java), [테스트](https://github.com/Hue9010/algorithm/blob/master/src/test/java/codility/TriangleTest.java)  
 
+- [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/Distinct.java), [테스트](https://github.com/Hue9010/algorithm/blob/master/src/test/java/codility/DistinctTest.java)  
+
+
 ---
 
 programmers  

@@ -59,7 +59,9 @@ codility
 
 - [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/Distinct.java), [테스트](https://github.com/Hue9010/algorithm/blob/master/src/test/java/codility/DistinctTest.java)  
 
-- [frogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/FrogJmp.java), [테스트](https://github.com/Hue9010/algorithm/blob/master/src/test/java/codility/FrogJmpRest.java)  
+- [frogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/FrogJmp.java), [테스트](https://github.com/Hue9010/algorithm/blob/master/src/test/java/codility/FrogJmpTest.java)  
+
+- [frogJmp](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/), [풀이](https://github.com/Hue9010/algorithm/blob/master/src/main/java/codility/GenomicRangeQuery.java), [테스트](https://github.com/Hue9010/algorithm/blob/master/src/test/java/codility/GenomicRangeQueryTest.java)  
 
 
 ---
